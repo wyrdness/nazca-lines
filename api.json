@@ -1,55 +1,126 @@
 {
-  "id": "nazca-lines",
-  "name": "Nazca Lines",
-  "category": "Ancient Geoglyphs",
-  "type": "Archaeological Site",
-  "version": "1.0.0",
-  "last_updated": "2026-01-14",
-  "locations": [
-    {
-      "name": "Nazca Desert",
-      "region": "Southern Peru",
-      "country": "Peru",
-      "coordinates": {
-        "latitude": -14.7,
-        "longitude": -75.1
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-02-13",
+    "repository": "https://github.com/wyrdness/nazca-lines",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+  "phenomenon": {
+    "id": "nazca-lines",
+    "name": "Nazca Lines",
+    "aliases": [],
+    "category": "ANCIENT_GEOGLYPHS",
+    "subcategory": "Unknown",
+    "tags": [
+      "folklore",
+      "mythology"
+    ],
+    "status": "documented",
+    "description": {
+      "summary": "The **Nazca Lines** are ancient geoglyphs in southern Peru created by the Nazca culture between 500 BCE and 500 CE.",
+      "full": "The **Nazca Lines** are ancient geoglyphs in southern Peru created by the Nazca culture between 500 BCE and 500 CE. These impressive designs include hundreds of straight lines, geometric shapes, and stylized animal figures visible from the air. While authentic and remarkable, the lines have been subject to pseudoarchaeological claims (particularly alien theories) that have been thoroughly debunked by scientific archaeology."
+    },
+    "etymology": {
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
+    }
+  },
+  "classification": {
+    "taxonomy": {
+      "category": "ANCIENT_GEOGLYPHS",
+      "type": "Unknown",
+      "subtype": "Unknown",
+      "variant": "Unknown"
+    },
+    "related_phenomena": []
+  },
+  "characteristics": {
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
+    },
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
+    }
+  },
+  "distribution": {
+    "range": {
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
       }
     }
-  ],
-  "origin": {
-    "culture": "Nazca Culture",
-    "period": "500 BCE - 500 CE",
-    "source": "Archaeological Evidence"
   },
-  "description": {
-    "short": "Ancient geoglyphs in Peru created by the Nazca culture between 500 BCE and 500 CE, visible from air, with scientific explanations involving astronomical, ceremonial, and water cult purposes. NOT alien-created (thoroughly debunked).",
-    "long": "The Nazca Lines are a collection of over 800 straight lines, 300 geometric figures, and 70 animal and plant designs (biomorphs) etched into the desert floor of southern Peru. Created by the Nazca culture between 500 BCE and 500 CE, these geoglyphs were made by removing reddish pebbles to reveal lighter ground beneath. Many designs are visible only from air, leading to various theories about their purpose. Scientific research indicates they served multiple functions: astronomical markers, ceremonial walkways, water cult rituals, and possibly markers for underground water sources. The lines are well-preserved due to the region's stable, dry climate. While pseudoarchaeological claims of alien origin persist, these have been thoroughly debunked by mainstream archaeology. The lines were created using simple surveying techniques available to the Nazca people and represent an impressive achievement of pre-Columbian engineering and cultural expression."
+  "history": {
+    "origins": {
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
+    },
+    "timeline": []
   },
-  "characteristics": [
-    "Over 800 straight lines",
-    "300+ geometric figures",
-    "70+ biomorphs (animals, plants)",
-    "Created 500 BCE - 500 CE",
-    "Nazca culture creation",
-    "Made by removing surface stones",
-    "Visible from air",
-    "Scientific theories: astronomical, ceremonial, water cult",
-    "NOT alien origin (debunked)"
-  ],
-  "status": {
-    "confirmed": true,
-    "explanation": "Authentic ancient archaeological site created by Nazca culture with well-documented methods and multiple scientifically-supported purposes; alien theories thoroughly debunked",
-    "evidence_level": "Archaeological Fact"
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
   },
-  "cultural_impact": {
-    "significance": "UNESCO World Heritage Site, remarkable achievement of pre-Columbian engineering and art, unfortunately associated with debunked alien theories",
-    "modern_usage": "Major tourist attraction, ongoing archaeological research, subject of both legitimate study and pseudoarchaeological claims",
-    "folklore_type": "Authentic Ancient Monument"
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
   },
-  "see_also": [
-    "nazca-culture",
-    "pre-columbian-peru",
-    "geoglyphs",
-    "ancient-astronomy"
-  ]
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
+  "cultural": {
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
+    },
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
+    }
+  },
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
 }
