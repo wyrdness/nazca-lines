@@ -1,393 +1,197 @@
 # Nazca Lines
 
+> An extensive group of pre-Columbian geoglyphs scratched into the desert pampa between the towns of Nazca and Palpa in southern Peru, created by the Paracas and Nazca cultures roughly between 500 BCE and 500 CE. Inscribed as a UNESCO World Heritage Site in 1994.
+
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-07-green)]() [![Sightings](https://img.shields.io/badge/sightings-0-orange)]() ![Status](https://img.shields.io/badge/status-documented-blue)
+
+---
+## Quick Reference
+
+| Property | Value |
+|---|---|
+| **ID** | `nazca-lines` |
+| **Category** | CULTURAL_ARTIFACT |
+| **Subcategory** | Pre-Columbian geoglyphs |
+| **First recorded** | 1927 |
+| **Primary range** | Concentrated in the arid Pampas de Jumana plateau between Nazca and Palpa in southern Peru, approximately 400 km south of Lima |
+| **Status** | documented |
+
+---
 ## Overview
-The **Nazca Lines** are ancient geoglyphs in southern Peru created by the Nazca culture between 500 BCE and 500 CE. These impressive designs include hundreds of straight lines, geometric shapes, and stylized animal figures visible from the air. While authentic and remarkable, the lines have been subject to pseudoarchaeological claims (particularly alien theories) that have been thoroughly debunked by scientific archaeology.
-
-**Status**: Authentic archaeological site  
-**Category**: Ancient Geoglyphs  
-**Period**: 500 BCE - 500 CE (Nazca culture)  
-**Location**: Nazca Desert, southern Peru  
-**UNESCO**: World Heritage Site (1994)
-
-## Description
-
-### Scale and Scope
-The Nazca Lines include:
-- **Over 800 straight lines**: Some extending up to 30 miles
-- **300+ geometric figures**: Trapezoids, rectangles, triangles, spirals
-- **70+ biomorphs**: Stylized animals and plants
-- **Covering**: Approximately 450 square kilometers
-- **Visibility**: Best seen from air, though some visible from surrounding hills
-
-### Famous Designs
-
-#### Animals
-- **Hummingbird**: 93 meters long
-- **Condor**: 130 meters wingspan
-- **Monkey**: With spiral tail
-- **Spider**: About 47 meters
-- **Whale**: Orca design
-- **Dog**: Possibly dog or fox
-- **Heron**: Large bird design
-- **Pelican**: Coastal bird
-- **Lizard**: Bisected by Pan-American Highway
-
-#### Other Figures
-- **Tree**: Plant design
-- **Hands**: Human hands
-- **Astronaut**: "Owl man" figure (NOT actually an astronaut)
-- **Flower**: Geometric plant
-- Various geometric patterns
-
-## Creation and Techniques
-
-### How They Were Made
-
-#### The Process
-The Nazca people created the lines by:
-1. **Removal**: Taking away reddish iron-oxide pebbles from surface
-2. **Contrast**: Revealing lighter-colored ground beneath
-3. **Preservation**: Dry, stable climate preserves lines for centuries
-4. **No Excavation**: Surface removal only, not dug into ground
-
-#### Tools and Methods
-- **Simple Technology**: Stakes, ropes, basic surveying
-- **Straight Lines**: String stretched between stakes
-- **Curves**: Rope and stake compass method
-- **Scale**: Small designs scaled up using grid system
-- **No Mystery**: Techniques demonstrated by modern researchers
-
-#### Why Preserved
-Lines survived because:
-- **Climate**: One of driest places on Earth (< 20mm rain/year)
-- **Geology**: Desert pavement stabilizes surface
-- **Wind**: Minimal wind erosion in protected plateau
-- **Isolation**: Remote location limited disturbance until modern era
-
-### Experimental Archaeology
-Researchers have successfully:
-- Recreated Nazca Lines using ancient techniques
-- Demonstrated feasibility with available tools
-- Shown no advanced technology necessary
-- Proven lines could be created by small groups in days/weeks
-
-## The Nazca Culture
-
-### Who Created Them
-The **Nazca** (also Nasca) culture:
-- **Period**: c. 200 BCE - 600 CE (peak line creation: 400-650 CE)
-- **Location**: Southern coastal Peru
-- **Society**: Sophisticated pre-Columbian civilization
-- **Known For**: Ceramics, textiles, geoglyphs
-- **Agriculture**: Advanced irrigation systems
-- **Decline**: c. 700 CE, possibly climate-related
-
-### Cultural Context
-The Nazca people:
-- Built impressive irrigation systems
-- Created intricate polychrome pottery
-- Developed complex textiles
-- Practiced elaborate burial customs
-- Had sophisticated understanding of astronomy
-- Maintained trade networks across region
-
-## Scientific Theories (Evidence-Based)
-
-### Multiple Purposes
-Archaeological evidence suggests the lines served various functions:
-
-#### 1. Astronomical/Calendar Markers
-- Some lines align with solstices and equinoxes
-- May have marked important agricultural dates
-- Possible astronomical observation platform
-- Not perfect alignment (mixed with other purposes)
-
-#### 2. Ceremonial Walkways
-- Lines designed to be walked in ritual processions
-- Pottery sherds found along some lines (offerings)
-- Connection to pilgrimage routes
-- Integration with religious practices
-
-#### 3. Water Cult
-- Many lines point to water sources
-- Association with rain and fertility rituals
-- Puquios (underground aqueducts) in region
-- Water critical in desert environment
-- Spiritual significance of water
-
-#### 4. Social and Ritual Functions
-- Community building through collective creation
-- Offerings to mountain deities (Apus)
-- Connection between earth and sky
-- Display of power and organization
-- Territory markers
-
-#### 5. Integration of Functions
-Most archaeologists believe:
-- Lines served multiple purposes simultaneously
-- Functions changed over centuries
-- Different designs had different meanings
-- No single explanation sufficient
-
-## Key Researchers (Legitimate)
-
-### Maria Reiche (1903-1998)
-The "Lady of the Lines":
-- German mathematician and archaeologist
-- Studied lines for over 50 years
-- Astronomical alignment theories
-- Conservation efforts
-- Dedicated life to preservation and study
-
-### Paul Kosok
-- First systematic study (1940s)
-- "The Largest Astronomy Book in the World"
-- Documented solstice alignments
-- Brought international attention
-
-### Johan Reinhard
-- Anthropological approach
-- Mountain worship and water cult theories
-- Integration of ethnographic data
-- Ceremonial pathway research
-
-### Markus Reindel and Johny Isla
-- Modern archaeological research
-- Technological analysis
-- Cultural context studies
-- Ongoing excavations and surveys
-
-## Debunking Alien Theories
-
-### Erich von Däniken's False Claims
-In "Chariots of the Gods?" (1968), von Däniken claimed:
-- Lines were alien landing strips
-- Ancient people couldn't create without alien help
-- Designs meant to be seen from spacecraft
-
-### Complete Debunking
-Archaeological evidence proves these claims false:
-
-#### Evidence of Human Creation
-1. **Pottery and Tools**: Nazca artifacts found at sites
-2. **Dating**: Radiocarbon dating confirms pre-Columbian age
-3. **Cultural Context**: Fits within known Nazca culture
-4. **Technique**: Simple methods, no advanced technology needed
-5. **Regional Tradition**: Similar geoglyphs throughout Peru
-6. **Continuous Tradition**: Evolution of designs over time
-
-#### Why Alien Theory Is Wrong
-- **Impractical Runways**: Lines too narrow, soft ground
-- **Scale Issues**: Most designs too small for spacecraft
-- **Cultural Continuity**: Part of documented human culture
-- **Occam's Razor**: Human explanation simpler and evidence-based
-- **Racist Implications**: Suggests indigenous people lacked capability
-
-#### Response from Archaeologists
-Professional archaeologists universally reject alien theories:
-- Overwhelming evidence of human creation
-- Insulting to Nazca cultural achievement
-- Ignores actual archaeological evidence
-- Perpetuates harmful pseudoarchaeology
-
-### Visibility "Mystery"
-Claim that lines "must be seen from air" is misleading:
-- Smaller designs visible from surrounding hills
-- Lines extend to horizon from ground level
-- Ancients didn't need to see entire design to create
-- Purpose may not have been visual at all (walking, ritual)
-- Many cultures create large designs without aerial view
-
-## Archaeological Evidence
-
-### Dating
-Lines dated through:
-- **Radiocarbon**: Organic materials in pottery at sites (200 BCE - 600 CE)
-- **Pottery Chronology**: Nazca ceramic styles along lines
-- **Stratigraphy**: Layers showing construction sequence
-- **Relative Dating**: Relationship to known Nazca sites
-
-### Artifacts
-Archaeological finds include:
-- Nazca pottery sherds along lines
-- Offering deposits at line intersections
-- Tools potentially used in construction
-- Ceramics depicting similar motifs
-- Textiles with related designs
-
-### Related Sites
-Lines connected to:
-- **Cahuachi**: Major Nazca ceremonial center
-- **Ventilla**: Elite residential site
-- **Pueblo Viejo**: Settlement site
-- **Puquios**: Ancient aqueduct system
-
-## Modern Discovery and Study
-
-### Timeline
-- **Pre-1920s**: Lines known to local people, largely ignored
-- **1927**: Peruvian archaeologist Toribio Mejía Xesspe first scientific description
-- **1940s**: Paul Kosok begins systematic study
-- **1946**: Maria Reiche starts her decades of work
-- **1968**: Von Däniken publishes alien theory (pseudoarchaeology)
-- **1970s-Present**: Intensive archaeological research
-- **1994**: UNESCO World Heritage designation
-- **2000s-Present**: New technologies (LiDAR, drones, AI)
-
-### Modern Technology
-Recent research uses:
-- **Aerial Photography**: Detailed mapping
-- **Satellite Imagery**: Discovering new lines
-- **Drones**: High-resolution documentation
-- **LiDAR**: Revealing previously unknown designs
-- **AI Analysis**: Pattern recognition for discovery
-- **3D Modeling**: Virtual reconstruction
-- **GPS**: Precise measurement and mapping
-
-### New Discoveries
-Recent findings include:
-- **New Lines**: Over 140 new geoglyphs discovered (2019-2020)
-- **AI Detection**: Machine learning finding subtle designs
-- **Earlier Dates**: Some lines older than previously thought
-- **Paracas Influence**: Pre-Nazca geoglyph tradition
-- **Broader Distribution**: Lines extend further than known
-
-## Conservation Challenges
-
-### Threats
-- **Tourism**: Foot traffic damage
-- **Development**: Urban expansion
-- **Mining**: Industrial activity
-- **Climate Change**: Rare but increasing flooding
-- **Vandalism**: Deliberate damage
-- **Vehicle Traffic**: Tire tracks from Pan-American Highway expansion
-
-### Protection Efforts
-- UNESCO World Heritage status
-- Peruvian government protection
-- Restricted access areas
-- Viewing towers for tourists
-- Monitoring and documentation
-- Research and preservation funding
-- Legal protections and enforcement
-
-### Notable Damage
-- **2014**: Greenpeace protest caused damage
-- **Highway Construction**: Lizard geoglyph bisected
-- Various vandalism incidents
-- Increased threats from development
-
-## Cultural Significance
-
-### To Nazca Descendants
-Modern indigenous communities:
-- See lines as ancestral heritage
-- Maintain cultural connection
-- Involved in preservation efforts
-- Continue ceremonial traditions
-
-### To Peru
-- Source of national pride
-- Major tourism attraction
-- Cultural identity symbol
-- International recognition
-
-### To Archaeology
-- Outstanding example of pre-Columbian engineering
-- Demonstration of ancient astronomical knowledge
-- Evidence of complex social organization
-- Testament to human creativity and capability
-
-## Visiting the Nazca Lines
-
-### How to See Them
-- **Aerial Tours**: Small plane flights (controversial due to crashes)
-- **Viewing Towers**: Ground-level observation platforms
-- **Surrounding Hills**: Natural viewpoints for some designs
-- **Museums**: Maria Reiche Museum, local exhibitions
-- **Visitor Centers**: Educational displays
-
-### Tourism Considerations
-- Economic benefit to local communities
-- Environmental impact concerns
-- Balancing access with preservation
-- Ethical tourism practices
-
-## Related Geoglyphs
-
-### Other Peruvian Sites
-- **Palpa Lines**: Similar geoglyphs near Nazca
-- **Paracas**: Earlier tradition
-- **Various Desert Sites**: Throughout coastal Peru
-- Demonstrates regional tradition of geoglyph creation
-
-### Global Geoglyphs
-Similar phenomena worldwide:
-- **Atacama Giant**: Chile
-- **Blythe Intaglios**: California, USA
-- **Uffington White Horse**: England
-- Shows universal human impulse to create landscape art
-
-## Scientific Consensus
-
-### What We Know
-Archaeological evidence confirms:
-- Created by Nazca culture (500 BCE - 500 CE)
-- Made using simple technology available to ancients
-- Served multiple ceremonial, astronomical, and social functions
-- Part of broader Andean cultural traditions
-- Remarkable achievement of human engineering
-
-### What We're Still Learning
-Ongoing research addresses:
-- Exact functions of different types of lines
-- Why specific designs were chosen
-- How creation was organized socially
-- Full extent of the geoglyph field
-- Relationship to water management
-- Evolution over time
-
-### What We Know Is False
-Scientific consensus definitively rejects:
-- Alien creation or involvement
-- Use as airfields or landing strips
-- Creation by unknown advanced technology
-- Impossibility of ancient human creation
-- Any supernatural or extraterrestrial explanation
-
-## Legacy
-
-### Archaeological Importance
-The Nazca Lines demonstrate:
-- Sophisticated pre-Columbian cultures
-- Ancient engineering capabilities
-- Complex ceremonial systems
-- Astronomical knowledge
-- Social organization
-
-### Challenge of Pseudoarchaeology
-Unfortunately also famous for:
-- Alien theory associations
-- Pseudoarchaeological exploitation
-- Need for public education
-- Importance of scientific communication
-- Balancing wonder with accuracy
-
-### Inspiration
-The lines inspire:
-- Appreciation for ancient cultures
-- Interest in pre-Columbian history
-- Archaeological research
-- Cultural heritage preservation
-- Reflection on human creativity
-
-## Conclusion
-
-The Nazca Lines represent an authentic and remarkable achievement of the ancient Nazca culture. Created using simple but effective techniques between 500 BCE and 500 CE, they served various ceremonial, astronomical, and social functions. While their scale and beauty inspire wonder, there is no mystery about their creation—they were made by humans using methods that have been demonstrated and tested. The persistent association with alien theories, though thoroughly debunked, underscores the importance of archaeological education and the challenge of combating pseudoscience. The lines stand as a testament to human creativity, cultural complexity, and engineering skill in the ancient Americas.
-
-## See Also
-- [Nazca Culture](../nazca-culture/) - The civilization that created the lines
-- [Pre-Columbian Peru](../pre-columbian-peru/) - Broader cultural context
-- [Geoglyphs](../geoglyphs/) - Similar phenomena worldwide
-- [Ancient Astronomy](../ancient-astronomy/) - Astronomical aspects
-- [Pseudoarchaeology](../pseudoarchaeology/) - False claims about ancient sites
+
+The Nazca Lines are an extensive group of geoglyphs scored into the surface of the Pampas de Jumana plateau in southern Peru, between the towns of Nazca and Palpa about 400 km south of Lima. The site covers roughly 50 km² and contains lines whose combined length exceeds 1,300 km. The geoglyphs were created in two principal phases — a Paracas-culture phase (c. 400–200 BCE) and a Nazca-culture phase (c. 200 BCE – 500 CE) — by removing the reddish-brown ferric-oxide-coated pebbles of the desert pavement to expose the lighter subsoil beneath. Most lines are 10–15 cm deep and around 33 cm wide, with some up to 1.8 m wide. The figures include geometric shapes, plant motifs, and hundreds of zoomorphic and anthropomorphic designs, the most famous including a 93 m hummingbird, a 134 m condor, a 93×58 m monkey, and a 47 m spider. The Lines were first noted in modern times by the Peruvian archaeologist Toribio Mejía Xesspe in 1927 and were systematically studied from 1940–41 by the American historian Paul Kosok and from the 1940s onward by the German mathematician Maria Reiche. They were inscribed as a UNESCO World Heritage Site in 1994. Major scholarly debates concern whether the lines functioned as an astronomical calendar (Kosok, Reiche), as ritual pathways or shamanistic features, or as indicators tied to underground water sources (Reinhard, Johnson). Recent decades have seen the discovery of hundreds of additional geoglyphs through aerial survey, drones, satellite imagery, and machine-learning analysis, including a 2019 announcement of 143 new geoglyphs identified in collaboration between Yamagata University and IBM Japan, and the 2020 discovery of a giant cat figure on a steep hillside.
+
+---
+## Names & Aliases
+
+| Name | Origin | Meaning |
+|---|---|---|
+| Líneas de Nazca | Spanish / Peru |  |
+| Pampas de Jumana geoglyphs | Nazca-Palpa region, Peru |  |
+
+## Etymology
+
+- **Origin**: Named after the modern town of Nazca in the Ica Region of Peru, near which most of the geoglyphs are found.
+- **Meaning**: 'Lines of Nazca'.
+- **First use**: Modern terminology, used in scholarly literature from the early 20th century onward.
+
+---
+## Related Phenomena
+
+- [Palpa geoglyphs](../palpa-geoglyphs/) — _related_: Adjacent and partially overlapping Paracas-period geoglyphs at Palpa
+- [Atacama Giant](../atacama-giant/) — _similar_: Other South American geoglyph traditions in the Atacama Desert
+- [Uffington White Horse](../uffington-white-horse/) — _similar_: Other large land-art figures elsewhere in the world
+
+---
+## Physical Description
+
+- **Morphology**: An ensemble of geoglyphs across a 50 km² desert pampa, executed at scales ranging from small motifs to figures hundreds of metres across, only fully legible from the air or from surrounding hilltops.
+
+### Features
+
+| Feature | Description | Frequency |
+|---|---|---|
+| Linear geoglyphs | Long straight lines and trapezoidal cleared areas, some over 1,300 km in combined length | always |
+| Zoomorphic figures | Hundreds of animal figures, including hummingbird (93 m), condor (134 m), monkey (93×58 m), spider (47 m), and others (whale, dog, lizard, parrot, pelican, heron, killer whale, cat) | common |
+| Anthropomorphic figures | Human or human-like figures (e.g. the 'astronaut' or 'owl-man' on a hillside) | occasional |
+| Plant and geometric figures | Plant designs and geometric trapezoids and spirals | common |
+| Construction technique | Created by removing reddish iron-oxide-coated surface pebbles to expose lighter subsoil; lines typically 10–15 cm deep and ~33 cm wide, with some up to 1.8 m wide | always |
+
+## Behavior
+
+- **Activity**: unknown
+- **Disposition**: unknown
+- **Social structure**: unknown
+- **Habitat**: arid coastal desert pampa, Pampas de Jumana
+
+---
+## Distribution
+
+Concentrated in the arid Pampas de Jumana plateau between Nazca and Palpa in southern Peru, approximately 400 km south of Lima.
+
+### Hotspots
+
+| Location | Region | Sightings | Peak |
+|---|---|---|---|
+| Pampas de Jumana / Nazca-Palpa plateau | Ica Region, Peru |  | c. 400 BCE – 500 CE |
+
+---
+## Historical Timeline
+
+| Date | Event | Significance |
+|---|---|---|
+| 1927 | Peruvian archaeologist Toribio Mejía Xesspe first records the Nazca Lines in modern scholarship | Beginning of formal study of the geoglyphs |
+| 1940 | American historian Paul Kosok begins systematic field study of the Nazca Lines | Initiation of the astronomical / calendrical hypothesis |
+| 1969 | Erich von Däniken publishes Chariots of the Gods?, popularizing the extraterrestrial-runway hypothesis for the Nazca Lines | Catalyzes mainstream pseudoscientific interpretations |
+| 1990 | Gerald Hawkins and Anthony Aveni conclude that 'the evidence was insufficient to support' the astronomical-calendar hypothesis | Mainstream archaeoastronomical critique of the Reiche hypothesis |
+| 1994 | UNESCO inscribes the Lines and Geoglyphs of Nazca and Pampas de Jumana on the World Heritage List (18th Session, criteria i, iii, iv) | Formal international recognition of the site's outstanding universal value |
+| 2014-12-08 | Greenpeace activists damage the area around the hummingbird geoglyph during a protest banner stunt | Major modern conservation incident; one activist was later convicted |
+| 2019 | Yamagata University and IBM Japan announce 143 new geoglyphs identified using machine-learning analysis | First major application of AI to Nazca survey |
+| 2020 | Discovery of a giant cat figure on a steep hillside in the Nazca complex | Notable individual discovery, dated stylistically to the late Paracas period |
+| 2024 | AI-assisted survey announces 303 previously unknown geoglyphs depicting parrots, cats, monkeys, killer whales, and severed heads | Largest single expansion of the known corpus |
+
+## Evidence
+
+### Physical
+
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Nazca Lines geoglyph corpus |  | More than 350 documented geoglyphs (with hundreds more added through 21st-century AI-assisted surveys), including linear, geometric, zoomorphic, and anthropomorphic figures spread across the Pampas de Jumana. | verified |
+### Photographic
+
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Aerial photographic record of the Nazca Lines |  | Comprehensive aerial documentation of the geoglyphs from the 1940s onwards, including Maria Reiche's mapping efforts. | verified |
+
+---
+## Theories & Explanations
+
+### Paranormal / Cryptozoological
+
+**Extraterrestrial-runway hypothesis (von Däniken, 1969)** _(Erich von Däniken)_
+
+Erich von Däniken's 1969 Chariots of the Gods? proposed that the Nazca Lines were runways or markers built for or by ancient extraterrestrial visitors.
+
+### Scientific
+
+**Astronomical / calendrical hypothesis (Kosok and Reiche)** _(Paul Kosok, Maria Reiche)_
+
+Hypothesis that the Lines functioned as an astronomical observatory or calendar, marking solstices, equinoxes, and other celestial alignments.
+
+**Water and fertility hypothesis (Reinhard, Johnson)** _(Johan Reinhard, David Johnson)_
+
+Johan Reinhard proposed the lines were tied to water worship and fertility ritual, with figures symbolizing deities of agricultural success. David Johnson argued some geoglyphs align with subterranean aquifers and aqueduct (puquio) systems.
+
+**Ritual pathway / pilgrimage hypothesis** _(Anthony Aveni, Modern Andean archaeology)_
+
+Many lines functioned as ceremonial pathways walked during ritual pilgrimages, with different geoglyph groups serving distinct functions (calendrical, fertility, processional).
+
+### Skeptical
+
+**Insufficient evidence for astronomical hypothesis** _(Gerald Hawkins, Anthony Aveni)_
+
+Gerald Hawkins (1968) and Anthony Aveni (1990) concluded the evidence was insufficient to support the astronomical-calendar interpretation as a primary function for the lines.
+
+**Nickell reproduction (debunking the extraterrestrial hypothesis)** _(Joe Nickell)_
+
+Investigator Joe Nickell demonstrated that period-appropriate tools and methods are sufficient to reproduce Nazca-style figures at scale, undercutting any need for extraterrestrial explanation.
+
+
+## Indigenous Perspectives
+
+> ⚠️ **Pseudoscientific framings (e.g. extraterrestrial-runway hypotheses) erase the achievements of the Paracas and Nazca peoples; mainstream scholarship attributes the geoglyphs entirely to these Indigenous American cultures.**
+
+**Cultures**: Paracas culture, Nazca culture
+
+The geoglyphs are products of long-standing Indigenous Andean ritual landscapes. Modern descendant communities and the Peruvian state regard the site as a major cultural heritage.
+
+_Guidelines: Center Paracas and Nazca authorship in any description; engage with Peruvian institutions (e.g. the Ministry of Culture) on heritage matters._
+
+## Popular Culture
+
+**Literature**: Chariots of the Gods? — Erich von Däniken (1969, pseudoarchaeology); Mystery on the Desert — Maria Reiche (1949)
+
+**Other**: UNESCO World Heritage Site since 1994; Featured prominently in global archaeological tourism
+
+---
+## Research
+
+### Researchers
+
+| Name | Affiliation | Contribution | Period |
+|---|---|---|---|
+| Toribio Mejía Xesspe | Peruvian archaeology | First modern scholarly notice of the Nazca Lines (1927) | 1920s–1930s |
+| Paul Kosok | Long Island University (history) | Initial systematic study; proposed astronomical hypothesis | 1940–1941 onward |
+| Maria Reiche | German mathematician based in Peru | Lifelong mapping, conservation, and astronomical interpretation | 1940s–1998 |
+| Anthony Aveni | Colgate University (archaeoastronomy) | Critical re-evaluation of astronomical claims; ritual-pathway interpretation | 1980s–present |
+| Johan Reinhard | Cultural anthropology | Water-and-fertility interpretation of the geoglyphs | 1980s–present |
+| David Johnson | Independent (US) | Aquifer-alignment hypothesis | 1990s–present |
+| Masato Sakai | Yamagata University | Leader of the Yamagata field survey, including AI-assisted geoglyph discovery | 2006–present |
+
+### Organizations
+
+- [Yamagata University Institute of Nasca](#) — Field survey, conservation, and discovery of new geoglyphs
+- [Peruvian Ministry of Culture](#) — Heritage management of the Nazca-Palpa site
+- [UNESCO World Heritage Centre](https://whc.unesco.org/en/list/700/) — World Heritage stewardship of the site (inscribed 1994)
+
+Active areas include AI-assisted geoglyph discovery (Yamagata University / IBM Japan), conservation against mining, infrastructure, and climate-change pressures, and continuing reinterpretation of the lines' ritual and hydrological functions.
+
+---
+## Sources
+
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
+
+
+## How to Report a Sighting
+
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
+
+---
+## License
+
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
+
+---
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._
